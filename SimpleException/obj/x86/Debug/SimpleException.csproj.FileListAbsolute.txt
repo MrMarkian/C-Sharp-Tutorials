@@ -1,0 +1,6 @@
+/Users/macbookpro/Documents/Programming/C Sharp/SimpleException/bin/Debug/SimpleException.exe
+/Users/macbookpro/Documents/Programming/C Sharp/SimpleException/bin/Debug/SimpleException.pdb
+/Users/macbookpro/Documents/Programming/C Sharp/SimpleException/obj/x86/Debug/SimpleException.csprojAssemblyReference.cache
+/Users/macbookpro/Documents/Programming/C Sharp/SimpleException/obj/x86/Debug/SimpleException.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Programming/C Sharp/SimpleException/obj/x86/Debug/SimpleException.exe
+/Users/macbookpro/Documents/Programming/C Sharp/SimpleException/obj/x86/Debug/SimpleException.pdb

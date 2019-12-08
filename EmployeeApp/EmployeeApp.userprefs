@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeApp/Employee.Core.cs">
+    <Files>
+      <File FileName="EmployeeApp/Program.cs" Line="1" Column="1" />
+      <File FileName="EmployeeApp/Employee.cs" Line="75" Column="32" />
+      <File FileName="EmployeeApp/Employee.Core.cs" Line="3" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

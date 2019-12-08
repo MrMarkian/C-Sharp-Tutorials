@@ -1,0 +1,6 @@
+/Users/macbookpro/Documents/Programming/C Sharp/CustomException/CustomException/bin/Debug/CustomException.exe
+/Users/macbookpro/Documents/Programming/C Sharp/CustomException/CustomException/bin/Debug/CustomException.pdb
+/Users/macbookpro/Documents/Programming/C Sharp/CustomException/CustomException/obj/x86/Debug/CustomException.csprojAssemblyReference.cache
+/Users/macbookpro/Documents/Programming/C Sharp/CustomException/CustomException/obj/x86/Debug/CustomException.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Programming/C Sharp/CustomException/CustomException/obj/x86/Debug/CustomException.exe
+/Users/macbookpro/Documents/Programming/C Sharp/CustomException/CustomException/obj/x86/Debug/CustomException.pdb

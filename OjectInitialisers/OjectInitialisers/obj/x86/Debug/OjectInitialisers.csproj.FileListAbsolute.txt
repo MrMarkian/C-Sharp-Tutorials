@@ -1,0 +1,2 @@
+/Users/macbookpro/Documents/Programming/C Sharp/OjectInitialisers/OjectInitialisers/obj/x86/Debug/OjectInitialisers.csprojAssemblyReference.cache
+/Users/macbookpro/Documents/Programming/C Sharp/OjectInitialisers/OjectInitialisers/obj/x86/Debug/OjectInitialisers.csproj.CoreCompileInputs.cache
